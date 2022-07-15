@@ -11,6 +11,7 @@ In my free time, I enjoy playing golf and learning new software developer concep
 [<img align="left" alt="facebook" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/facebook-square.svg" />][facebook]
 
 <br>
+<br>
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulwon2223&show_icons=true)
 
