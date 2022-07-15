@@ -1,6 +1,6 @@
 ### Hi there, I'm Paul 👋
 
-## I'm a Full Stack Developer based in Dallas, TX
+#### I'm a Full Stack Developer based in Dallas, TX
 
 <!--
 - 🔭 I’m currently working on ...
