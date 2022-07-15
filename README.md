@@ -29,8 +29,6 @@ In my free time, I enjoy playing golf and learning new software developer concep
   <img align="left" alt="Paul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paulwon2223&show_icons=true&hide_border=true" />
 </details>
 
-<br>
-
 <details>
   <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="Paul's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulwon2223" />
