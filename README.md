@@ -9,6 +9,8 @@ In my free time, I enjoy playing golf and learning new software developer concep
 
 ### Connect With Me:
 <img align="left" alt="linkedin" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />
+<img align="left" alt="facebook" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/facebook-square.svg" />
+
 
 <!--
 - 🔭 I’m currently working on ...
