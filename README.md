@@ -7,9 +7,9 @@ In my free time, I enjoy playing golf and learning new software developer concep
 
 
 ### Connect With Me:
-[<img align="left" alt="linkedin" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="facebook" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/facebook-square.svg" />][facebook]
-[<img align="left" alt="twitter" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/twitter-square.svg" />][twitter]
+[<img align="left" alt="twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
 <br>
 
 ### Lanuages and Tools:
