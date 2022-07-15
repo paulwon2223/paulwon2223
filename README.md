@@ -1,6 +1,6 @@
 ## Hi there, I'm Paul 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there;Second+line+of+text)](https://git.io/typing-svg)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+,+I'm+Paul;Second+line+of+text)](https://git.io/typing-svg)
 
 
 Software developer based in Dallas TX with a broad knowledge of Javascript and it's frameworks including Node.js and React.js. I am highly motivated and passionate about writing efficient and clean code.
