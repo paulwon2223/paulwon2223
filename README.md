@@ -49,4 +49,4 @@ In my free time, I enjoy playing golf and learning new software developer concep
 
 [linkedin]: https://www.linkedin.com/in/paul-won/
 [facebook]: https://www.facebook.com/paul.h.won/
-[twitter]: https://wwww.twitter.com
+[twitter]: https://www.twitter.com
