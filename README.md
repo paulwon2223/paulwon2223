@@ -5,7 +5,6 @@ Software developer based in Dallas TX with a broad knowledge of Javascript and i
 
 In my free time, I enjoy playing golf and learning new software developer concepts, techniques and programing languages to further enhance my software skills.
 
------
 
 ### Connect With Me:
 [<img align="left" alt="linkedin" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />][linkedin]
