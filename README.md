@@ -1,7 +1,10 @@
-### Hi there, I'm Paul 👋
+## Hi there, I'm Paul 👋
 
-#### I'm a Full Stack Developer based in Dallas, TX
+### I'm a Full Stack Developer based in Dallas, TX.
 
+### Connect With Me:
+
+[<img align="left" alt="linkedin" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />]
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
