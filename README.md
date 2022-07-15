@@ -21,7 +21,7 @@ In my free time, I enjoy playing golf and learning new software developer concep
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Heroku" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" />
+<img align="left" alt="Heroku" width="30px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" />
 
 <br>
 <br>
