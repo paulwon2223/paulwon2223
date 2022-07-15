@@ -1,6 +1,6 @@
 ## Hi there, I'm Paul 👋
 
-Software developer based in Dallas TX with a broad knowledge of Javascript and it's frameworks including Node.js and React.js. I am highly motivated and passionate about writing efficient and clean code.
+I am a software developer based in Dallas TX with a broad knowledge of Javascript and it's frameworks including Node.js and React.js. I am highly motivated and passionate about writing efficient and clean code.
 
 
 In my free time, I enjoy playing golf and learning new software developer concepts, techniques and programing languages to further enhance my software skills.
@@ -9,7 +9,7 @@ In my free time, I enjoy playing golf and learning new software developer concep
 ### Connect With Me:
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />][linkedin]
 [<img align="left" alt="facebook" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/facebook-square.svg" />][facebook]
-
+[<img align="left" alt="twitter" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/twitter-square.svg" />][twitter]
 <br>
 
 ### Lanuages and Tools:
@@ -49,3 +49,4 @@ In my free time, I enjoy playing golf and learning new software developer concep
 
 [linkedin]: https://www.linkedin.com/in/paul-won/
 [facebook]: https://www.facebook.com/paul.h.won/
+[twitter]: https://wwww.twitter.com
