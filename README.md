@@ -2,7 +2,8 @@
 
 #### I'm a...
 Software developer based in Dallas TX with a broad knowledge of Javascript and it's frameworks including Node.js and React.js. I am highly motivated and passionate about writing efficient and clean code.
-<br />
+
+
 In my free time, I enjoy playing golf and learning new software developer concepts, techniques and programing languages to further enhance my software skills.
 
 
