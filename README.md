@@ -4,7 +4,7 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="linkedin" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />][linkedin]
+<img align="left" alt="linkedin" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />
 
 <!--
 - 🔭 I’m currently working on ...
