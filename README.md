@@ -8,7 +8,7 @@ In my free time, I enjoy playing golf and learning new software developer concep
 
 ### Connect With Me:
 [<img align="left" alt="linkedin" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />][linkedin]
-<img align="left" alt="facebook" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/facebook-square.svg" />
+[<img align="left" alt="facebook" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/facebook-square.svg" />][facebook]
 
 
 <!--
@@ -23,3 +23,4 @@ In my free time, I enjoy playing golf and learning new software developer concep
 -->
 
 [linkedin]: https://www.linkedin.com/in/paul-won/
+[facebook]: https://www.facebook.com/paul.h.won/
