@@ -13,10 +13,6 @@ In my free time, I enjoy playing golf and learning new software developer concep
 <br>
 <br>
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulwon2223&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulwon2223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
