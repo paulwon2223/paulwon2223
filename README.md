@@ -1,6 +1,5 @@
 ## Hi there, I'm Paul 👋
 
-#### I'm a...
 Software developer based in Dallas TX with a broad knowledge of Javascript and it's frameworks including Node.js and React.js. I am highly motivated and passionate about writing efficient and clean code.
 
 
