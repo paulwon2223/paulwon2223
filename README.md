@@ -1,5 +1,8 @@
 ## Hi there, I'm Paul 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there;Second+line+of+text)](https://git.io/typing-svg)
+
+
 Software developer based in Dallas TX with a broad knowledge of Javascript and it's frameworks including Node.js and React.js. I am highly motivated and passionate about writing efficient and clean code.
 
 
@@ -21,7 +24,7 @@ In my free time, I enjoy playing golf and learning new software developer concep
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="Heroku" width="26px" src="" />
 
 <br>
 <br>
