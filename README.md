@@ -24,5 +24,12 @@ In my free time, I enjoy playing golf and learning new software developer concep
 - ⚡ Fun fact: ...
 -->
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Paul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paulwon2223&show_icons=true&hide_border=true" />
+
+</details>
+
 [linkedin]: https://www.linkedin.com/in/paul-won/
 [facebook]: https://www.facebook.com/paul.h.won/
