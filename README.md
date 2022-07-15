@@ -7,11 +7,16 @@ In my free time, I enjoy playing golf and learning new software developer concep
 
 
 ### Connect With Me:
-[<img align="left" alt="linkedin" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />][linkedin]
-[<img align="left" alt="facebook" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/facebook-square.svg" />][facebook]
+[<img align="left" alt="linkedin" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" />][linkedin]
+[<img align="left" alt="facebook" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/facebook-square.svg" />][facebook]
 
 <br>
 <br>
+
+### Lanuages and Tools:
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+/>
+
 
 <!--
 - 🔭 I’m currently working on ...
